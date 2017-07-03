@@ -1,2 +1,2 @@
-# d3-test
-just for d3 learning
+# D3.js Learning
+A list of tools & resources for designers.
