@@ -231,3 +231,23 @@ Processing的原生JavaScript实现，是新接触编程的艺术家和设计师
 
 实时测试D3代码的一个好工具，作者是Ian Johnson。
 
+### 寻找、分享代码
+
+在D3众多值得称赞的亮点中，有一个是比其他可视化工具提供了更加丰富的示例和教程，你可以从中汲取灵感。当我创建自己的开源可视化图表项目，还有写作这本书的时候，我在那些资源中获得了大量的灵感。我会在那些最棒的例子里，挑出一些列个清单出来。这个清单虽然不是百科全书，但却是个不错的入门参考。
+
+* [D3 gallery](https://github.com/mbostock/d3/wiki/Gallery)，这里有不少有趣的例子，可以帮你在线查找D3的使用方法，有各种各样的图表、特定的技术，还有一些跟其他工具一起实现的示例。
+
+* [BioVisualize](http://biovisualize.github.io/d3visualization)，算是一个分门别类的D3 gallery，可以帮你快速地在线查找你想要的例子。
+
+* [D3教程](https://github.com/mbostock/d3/wiki/Tutorials)，有很多朋友不断更新提供的教程、讨论和文档，给你细致地演示了D3的使用方法。
+
+* [D3插件](https://github.com/d3/d3-plugins)，可能有些你需要的功能是D3没有的。在你自己实践之前，先查查D3的插件库，它提供了各种常用的、不常用的功能。
+
+* [D3 API](https://github.com/mbostock/d3/wiki/API-Reference)是很不错的文档。这里你能找到D3所提供的全部功能、属性的详细说明。
+
+* [Mike Bostok's Blocks](http://bl.ocks.org/mbostock)是个D3示例站点，作者是Mike Bostock，这个站点里有很多有趣的例子。
+
+* [JS Bin](http://jsbin.com/ugacud/1/edit)是个在线的D3测试、实验环境。你可以很容易地通过该工具跟其他人分享一些简单的代码。
+
+* [JS Fiddle](http://jsfiddle.net/qAHC2/)跟JS Bin差不多，也是一个在线JavaScript代码分享平台。
+
