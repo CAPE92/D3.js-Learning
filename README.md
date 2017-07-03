@@ -71,7 +71,7 @@ Gregor Aisch开发的一个基于JavaScript和Python的非常炫的、完全使�
 
 * [Leaflet](http://leafletjs.com)
 
-贴片地图的库，可以在桌面和移动设备上流畅地交互。它支持在地图贴片上显 示一些SVG数据层。(参见Mike的演示“Using D3 with Leaflet”:http://bost. ocks.org/mike/leaflet/。) Leaflet支持IE6(勉强)或IE7(好得多)，当然还有其他更新版本的浏览器。
+贴片地图的库，可以在桌面和移动设备上流畅地交互。它支持在地图贴片上显 示一些SVG数据层。(参见Mike的演示“[Using D3 with Leaflet](http://bost.ocks.org/mike/leaflet/)”) Leaflet支持IE6(勉强)或IE7(好得多)，当然还有其他更新版本的浏览器。
 
 * [Modest Maps](http://modestmaps.com/)
 
