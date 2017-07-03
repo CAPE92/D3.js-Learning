@@ -6,8 +6,7 @@
 
 **HTML 5**
 
-[Mozilla Developer Network](https://
-developer.mozilla.org/en/HTML/Element)
+[Mozilla Developer Network](https://developer.mozilla.org/en/HTML/Element)
 
 ```
 <!DOCTYPE html>
