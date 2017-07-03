@@ -4,6 +4,92 @@
 
 不同于探索型工具如[Tableau](http://www.tableausoftware.com)和[ggplot2](http://ggplot2.org)，D3擅长生成解释型视图，不擅长探索型视图。
 
+**HTML 5**
+
+[Mozilla Developer Network](https://
+developer.mozilla.org/en/HTML/Element)
+
+```
+<!DOCTYPE html>
+<html> 
+     <head>
+          <title>Page Title</title> 
+     </head>
+     <body>
+          <h1>Page Title</h1>
+          <p>This is a really interesting paragraph.</p> 
+     </body>
+</html>
+```
+常用元素、属性、类和ID、注释<!-- 这里是注释的内容 -->
+
+**DOM**
+> DOM(Document Object Model，文档对象模型)指的是HTML标签的层次结构。每一对HTML 标签(有时候则是一个标签)都是一个元素，对这些元素，我们一般用拟人化的方法来称呼它们，比如:父元素、子元素、同胞元素、祖先元素和后代元素。
+
+**CSS**
+
+> CSS(Cascading Style Sheets，层叠样式表)控制DOM元素的视觉外观。
+
+```
+选择符 A, 
+选择符 B, 
+选择符C {
+        属性: 值;
+        属性: 值;
+        属性: 值;
+}
+```
+
+**选择符**
+
+1.类型选择符
+
+```
+h1 /* 选择所有一级标题 */ 
+p /* 选择所有段落 */ 
+strong /* 选择所有strong元素 */ 
+em /* 选择所有em元素 */ 
+div /* 选择所有div元素 */
+```
+
+2.后代选择符 
+
+```
+h1 em /* 选择包含在h1中的em元素 */ 
+div p /* 选择包含在div中的p元素 */
+```
+
+3.类选择符
+
+  
+```
+.caption /* 选择带 "caption" 类的元素 */
+.label /* 选择带"label"类的元素 */
+.axis /*选择带"axis"类的元素 */
+```
+  
+有些元素可能包含多个类，为此可以把多个类名串起来选择它们，比如:
+```
+.bar.highlight /* 选择高亮(hightlight)的条形(bar)*/
+.axis.x /* 选择x轴(axix)*/
+.axis.y /* 选择y轴(axix)*/
+```
+.axis 可以为两个轴应用样式，而 .axis.x 则只能为 x 轴应用样式。
+
+4.ID选择符
+
+```
+#header /* 选择ID为"header"的元素 */ 
+#nav /* 选择ID为"nav"的元素 */ 
+#export /* 选择ID为"export"的元素 */
+```
+选择符可以通过各种组合来达到选择特定元素的目的。比如，可以把两个选择符串起来，选择一个更具体的元素:
+```
+div.sidebar /* 只选择带有"sidebar"类的div，而不选择带其他类的div */ 
+#button.on /* 只选择带有"on"类，且ID为"button"的元素 */
+```
+
+
 
 ### 可视化工具汇总
 **1.简易图表**
