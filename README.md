@@ -22,7 +22,8 @@ developer.mozilla.org/en/HTML/Element)
 </html>
 ```
 常用元素、属性、类和ID、注释
-```<!-- 这里是注释的内容 -->
+```
+<!-- 这里是注释的内容 -->
 ```
 
 **DOM**
